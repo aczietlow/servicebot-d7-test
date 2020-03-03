@@ -1,0 +1,4 @@
+name = Servicebot integration test module
+core = 7.x
+package = Servicebot.io
+description = Random test code for servicebot
